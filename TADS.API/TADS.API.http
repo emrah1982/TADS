@@ -1,0 +1,6 @@
+@TADS.API_HostAddress = http://localhost:5276
+
+GET {{TADS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
