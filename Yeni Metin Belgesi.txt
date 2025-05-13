@@ -1,0 +1,1 @@
+MySQL komut satırı aracı yüklü değil. Bu durumda Entity Framework Core migration'ı kullanmamız gerekecek. ApplicationDbContext'i kontrol edelim:
